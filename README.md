@@ -7,6 +7,12 @@
   - Emergency stops, or overriding when necessary
 # Output
 + Using navigation algorithm to facilitate that problems by following ROS2 Navigation (Nav2) frame works.
+# Key Feature
+In this workspace conduct with packages, such as:
++ Path planning, Path Tracking
++ SLAM MAP
++ Nav2 framework for robot navigation
++ Object detection for ball tracking  
 # Scope of Works
 + Create a virtual environment (build world)
 + Setup the model of robot in gazebo
