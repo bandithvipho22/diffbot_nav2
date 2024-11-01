@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/viphu/dev_ws/install/rplidar_ros/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/viphu/dev_ws/src/amr_autobot/include/**",
+        "/home/viphu/dev_ws/src/astar_algorithm/include/**",
+        "/home/viphu/dev_ws/src/robot_differential/include/**",
+        "/home/viphu/dev_ws/src/rplidar_ros2/include/**",
+        "/home/viphu/dev_ws/src/wheel_robot/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
